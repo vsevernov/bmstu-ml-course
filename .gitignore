@@ -1,0 +1,9 @@
+# Mac/OSX
+.DS_Store
+
+# Editors
+.vscose/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints.DS_Store
